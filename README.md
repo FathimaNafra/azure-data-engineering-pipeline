@@ -15,6 +15,9 @@ This project is designed as a **portfolio project** for students in Data Science
 ## Architecture Diagram
 ![Architecture Diagram](architecture/PipelineArchitecture.png)
 
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/power_bi_dashboard.png)
+
 **Pipeline Flow:**
 
 1. **Raw Data** → uploaded to **Azure Data Lake (raw-data container)**
