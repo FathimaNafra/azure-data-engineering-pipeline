@@ -18,6 +18,10 @@ This project is designed as a **portfolio project** for students in Data Science
 ### Power BI Dashboard
 ![Power BI Dashboard](screenshots/power_bi_dashboard.png)
 
+## Databricks Notebook
+You can find the data transformation notebook here:  
+[Data Transformation Notebook](notebooks/Data_Transformation.dbc)
+
 **Pipeline Flow:**
 
 1. **Raw Data** → uploaded to **Azure Data Lake (raw-data container)**
